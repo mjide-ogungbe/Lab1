@@ -8,3 +8,9 @@ def calculate_age():
 
 
 print(calculate_age())
+
+def helloWorld():
+	print("Hello World")
+
+
+helloWorld()
